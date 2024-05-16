@@ -1,1 +1,2 @@
 # CCFD-using-ML
+Our project leverages machine learning to detect fraudulent credit card transactions, enhancing financial security. By analyzing transaction data and identifying patterns indicative of fraud, we train models using algorithms like Random Forest and Logistic Regression. These models provide real-time fraud detection, helping banks to promptly identify and block suspicious activities. Overall, it aims to protect consumers and financial institutions from financial losses and fraud risks.
